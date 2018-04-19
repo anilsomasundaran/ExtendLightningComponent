@@ -1,0 +1,4 @@
+<aura:component extensible="true">
+    <aura:attribute name="record" type="String" />
+    In parent Component - Record: {!v.record} - {!v.body}
+</aura:component>

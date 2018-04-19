@@ -1,0 +1,4 @@
+<aura:component extends="c:BaseComponent">
+    <aura:set attribute="record" value="Record Value Set From Child Component " />
+	Child Component
+</aura:component>
